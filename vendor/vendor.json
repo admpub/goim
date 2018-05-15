@@ -1,0 +1,133 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "kHh2EuzlSG80I7Hegzb8XnM5ybU=",
+			"path": "github.com/Shopify/sarama",
+			"revision": "3c763ff04e6daa57d4a4614e5bcd908f2527c989",
+			"revisionTime": "2018-05-07T14:57:26Z"
+		},
+		{
+			"checksumSHA1": "6t+csMWM7FaXHv3hPY/Ek9I3DsQ=",
+			"path": "github.com/Terry-Mao/goconf",
+			"revision": "13cb73d70c44435af3a64558d8b8a2fffddc411e",
+			"revisionTime": "2016-11-15T08:25:38Z"
+		},
+		{
+			"checksumSHA1": "CSPbwbyzqA6sfORicn4HFtIhF/c=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "8991bc29aa16c548c550c7ff78260e27b9ab7c73",
+			"revisionTime": "2018-02-21T22:46:20Z"
+		},
+		{
+			"checksumSHA1": "y2Kh4iPlgCPXSGTCcFpzePYdzzg=",
+			"path": "github.com/eapache/go-resiliency/breaker",
+			"revision": "ea41b0fad31007accc7f806884dcdf3da98b79ce",
+			"revisionTime": "2018-03-26T13:24:23Z"
+		},
+		{
+			"checksumSHA1": "WHl96RVZlOOdF4Lb1OOadMpw8ls=",
+			"path": "github.com/eapache/go-xerial-snappy",
+			"revision": "bb955e01b9346ac19dc29eb16586c90ded99a98c",
+			"revisionTime": "2016-06-09T14:24:08Z"
+		},
+		{
+			"checksumSHA1": "SJhV59StVXLFvLU0l9s0d00nV10=",
+			"path": "github.com/eapache/queue",
+			"revision": "093482f3f8ce946c05bcba64badd2c82369e084d",
+			"revisionTime": "2018-02-27T14:14:24Z"
+		},
+		{
+			"checksumSHA1": "p/8vSviYF91gFflhrt5vkyksroo=",
+			"path": "github.com/golang/snappy",
+			"revision": "553a641470496b2327abcac10b36396bd98e45c9",
+			"revisionTime": "2017-02-15T23:32:05Z"
+		},
+		{
+			"checksumSHA1": "mB5P3/XIC7r4Jc0/K86NA9Jq2CA=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "21ab95fa12b9bdd8fecf5fa3586aad941cc98785",
+			"revisionTime": "2018-04-20T17:16:12Z"
+		},
+		{
+			"checksumSHA1": "Aah7sPDFy+rHR8CrN6ujnKabCuY=",
+			"path": "github.com/nkovacs/go-engine.io",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "03jQ+l+V8AEh/EFKncKtQKN1lkU=",
+			"path": "github.com/nkovacs/go-engine.io/message",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "wvDPgSYxHQxZInpis9RXFW/veJs=",
+			"path": "github.com/nkovacs/go-engine.io/parser",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "HrhQvyInGIh2rGsXmYhVnoKjt8I=",
+			"path": "github.com/nkovacs/go-engine.io/polling",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "QxwM+0gVnH3Ag+3Yi5LMac90NTQ=",
+			"path": "github.com/nkovacs/go-engine.io/transport",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "Fvyw/CxjQdYsCY/PrFwJD1tlNFM=",
+			"path": "github.com/nkovacs/go-engine.io/websocket",
+			"revision": "0322b59816cbe303aa34f137c1bf105093ba3f63",
+			"revisionTime": "2015-12-08T16:03:48Z"
+		},
+		{
+			"checksumSHA1": "JL/D6d2Ldh0YVXZW0YsxJZSx0+M=",
+			"path": "github.com/nkovacs/go-socket.io",
+			"revision": "e507d8cf976e5c3b5b20d96a630f1ddf63d76508",
+			"revisionTime": "2016-04-07T11:48:50Z"
+		},
+		{
+			"checksumSHA1": "MZdppx6laedD1LcVomiZ/Sfa6rE=",
+			"path": "github.com/nsqio/go-nsq",
+			"revision": "8c1ff52dff6fd3ecc19c418649bc643b18e862fc",
+			"revisionTime": "2017-10-30T00:05:02Z"
+		},
+		{
+			"checksumSHA1": "xKzx54LbkghuMauevGWevn5ip3w=",
+			"path": "github.com/pierrec/lz4",
+			"revision": "ed8d4cc3b461464e69798080a0092bd028910298",
+			"revisionTime": "2018-01-13T15:17:03Z"
+		},
+		{
+			"checksumSHA1": "zPWRjzsPeXCoqmidIcJtHbvrvRs=",
+			"path": "github.com/pierrec/xxHash/xxHash32",
+			"revision": "a0006b13c722f7f12368c00a3d3c2ae8a999a0c6",
+			"revisionTime": "2017-07-14T08:24:55Z"
+		},
+		{
+			"checksumSHA1": "an5RM8wjgPPloolUUYkvEncbHu4=",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": "e2704e165165ec55d062f5919b4b29494e9fa790",
+			"revisionTime": "2018-05-03T17:46:38Z"
+		},
+		{
+			"checksumSHA1": "ydE0SJLyrkN5y2R2zBtjs7AeeQo=",
+			"path": "github.com/thinkboy/log4go",
+			"revision": "f91a411e4a181d8156571e4d02a376d1e36b89e4",
+			"revisionTime": "2016-03-03T04:50:50Z"
+		},
+		{
+			"checksumSHA1": "8t3z6wSkl91Jf+d9wNHXBC3XtFk=",
+			"path": "github.com/wvanbergen/kafka/consumergroup",
+			"revision": "e2edea948ddfee841ea9a263b32ccca15f7d6c2f",
+			"revisionTime": "2017-12-03T15:37:45Z"
+		}
+	],
+	"rootPath": "goim"
+}

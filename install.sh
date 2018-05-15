@@ -1,3 +1,4 @@
+go get github.com/kardianos/govendor
 cd $GOPATH/src/goim/router
 go install
 cp router-example.conf $GOPATH/bin/router.conf
