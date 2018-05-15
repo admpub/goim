@@ -8,14 +8,14 @@ import (
 )
 
 // Initsocket.io listen all tcp.bind and start accept connections.
-func InitSocketIO(addrs string, transport []string, accept string) (err error) {
+func InitSocketIO(addrs []string, transport []string, accept string) (err error) {
 	server, err := socketio.NewServer(transport)
 	if err != nil {
 		log.Warn("socketio init err")
 	}
 	http.Handle("/socket.io/", server)
 	log.Info("socketio Serving at ", addrs)
-	http.ListenAndServe(addrs, nil)
+	http.ListenAndServe(addrs[0], nil)
 	key := accept
 	go dispatchSocketIOEvent(server, key)
 
