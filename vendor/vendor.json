@@ -117,6 +117,12 @@
 			"revisionTime": "2018-05-03T17:46:38Z"
 		},
 		{
+			"checksumSHA1": "ze1R6Lrk0kW0cX24ZdZD6ZpIDCo=",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": "c4fab1ac1bec58281ad0667dc3f0907a9476ac47",
+			"revisionTime": "2018-01-30T19:37:22Z"
+		},
+		{
 			"checksumSHA1": "ydE0SJLyrkN5y2R2zBtjs7AeeQo=",
 			"path": "github.com/thinkboy/log4go",
 			"revision": "f91a411e4a181d8156571e4d02a376d1e36b89e4",
@@ -127,6 +133,12 @@
 			"path": "github.com/wvanbergen/kafka/consumergroup",
 			"revision": "e2edea948ddfee841ea9a263b32ccca15f7d6c2f",
 			"revisionTime": "2017-12-03T15:37:45Z"
+		},
+		{
+			"checksumSHA1": "k5qRIVfvbNqUOVZheTf30Ei6mB8=",
+			"path": "github.com/wvanbergen/kazoo-go",
+			"revision": "f72d8611297a7cf105da904c04198ad701a60101",
+			"revisionTime": "2018-02-02T10:37:51Z"
 		}
 	],
 	"rootPath": "goim"
